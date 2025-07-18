@@ -4,7 +4,7 @@ Welcome to Ajoke's Pastries, a static frontend e-commerce project that showcases
 
 ## 🧁 Live Preview
 
-[Insert your GitHub Pages link here]
+[https://sir-herlerdhyre.github.io/E-commerce/]
 
 ---
 
